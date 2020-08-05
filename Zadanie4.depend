@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\bestiae\desktop\fei\zs\prog2\cviko\zadanie4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1521075150 source:c:\users\bestiae\desktop\fei\zs\prog2\cviko\zadanie4\deployment_grid.c
+	"helpers.h"
+
+1521068808 c:\users\bestiae\desktop\fei\zs\prog2\cviko\zadanie4\helpers.h
+
+1521114820 source:c:\users\bestiae\desktop\fei\zs\prog2\cviko\zadanie4\game.c
+	<stdio.h>
+	<stdlib.h>
+	"helpers.h"
+	<windows.h>
+
+1521105593 source:c:\users\bestiae\desktop\fei\zs\prog2\cviko\zadanie4\actions.c
+	<stdio.h>
+	<stdlib.h>
+	"helpers.h"
+	<windows.h>
+
